@@ -59,3 +59,11 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+* Mingwei Lu
+
+Reference
+=========
+* https://stackoverflow.com/questions/45412228/sending-json-and-status-code-with-a-flask-response
+* https://github.com/uofa-cmput404/cmput404-slides/blob/d187f73a2fe5008eef0fbcb823820a31b27d8cca/examples/WebSocketsExamples/broadcaster.pyz
+* https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/createLinearGradient
+
